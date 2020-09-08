@@ -9,7 +9,7 @@ function Header() {
           />
           
           <div className="header__search">
-            <imput className="header__searchInput" type="text" />
+            <input className="header__searchInput" type="text" />
           </div>
           
           <div className="header__nav">
