@@ -81,7 +81,7 @@ const Home = () => {
             title="Oculus Rift S PC-Powered VR Gaming Headset"
             price={399.99}
             image="https://images-na.ssl-images-amazon.com/images/I/71URNvzoWqL._SL1500_.jpg"
-            rating={4}
+            rating={7}
           />
           <Product 
             id="8238756923487"
@@ -100,27 +100,27 @@ const Home = () => {
         </div>
       <div className="home__row">
         <Product 
-        //id="21124124124"
-            title="The lean startup"
-            price={29.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+            id="873243765098276"
+            title="Mkeke Compatible with iPhone XR Case,Clear Anti-Scratch Shock Absorption Cover Case for iPhone XR"
+            price={7.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/71j2Zqi6BGL._AC_SL1250_.jpg"
             rating={5}
         />
         <Product 
-        //id="21124124124"
-            title="The lean startup"
-            price={29.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+            id="273125942987"
+            title="iOttie Easy One Touch 4 Dash & Windshield Car Mount Phone Holder Desk Stand Pad & Mat"
+            price={21.08}
+            image="https://images-na.ssl-images-amazon.com/images/I/718NVofDrCL._AC_SL1500_.jpg"
             rating={5}
         />
       </div>
         <div className="home__row">
         <Product 
-        //id="21124124124"
-            title="The lean startup"
-            price={29.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-            rating={5}
+            id="82654365375198381"
+            title="Redragon S101 Wired Gaming Keyboard and Mouse Combo RGB Backlit Gaming Keyboard"
+            price={39.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/71kr3WAj1FL._AC_SL1500_.jpg"
+            rating={7}
         />
       </div>
       </div>
