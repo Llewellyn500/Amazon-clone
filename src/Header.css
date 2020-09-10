@@ -38,6 +38,11 @@
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+.header__searchIcon:hover {
+    cursor: pointer;
+    background-color: #ffb557;
+    color: white;
+}
 
 .header__optionLineOne {
     font-size: 10px;
