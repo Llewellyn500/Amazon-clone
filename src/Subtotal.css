@@ -17,11 +17,12 @@
 
 .subtotal__gift > input {
   margin-right: 5px;
+  transition: 0.5s;
 }
 
-.subtotal__gift > input {
+.subtotal__gift > input:hover {
   cursor: pointer;
-  background: #f0c14b;
+  color: #f0c14b;
 }
 
 .subtotal > button {
@@ -33,6 +34,7 @@
   margin-top: 10px;
   border-color: #a88734 #9c7e31 #846a29;
   color: #111;
+  transition: 0.5s;
 }
 
 .subtotal > button:hover {
