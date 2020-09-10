@@ -37,6 +37,7 @@
     background-color: #cd9042;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    transition: 0.5s;
 }
 .header__searchIcon:hover {
     cursor: pointer;
