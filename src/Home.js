@@ -68,11 +68,11 @@ const Home = () => {
         </div>
         <div className="home__row">
           <Product 
-            id="87874762652348"
-            title="Marvel's Avengers for PlayStation 4"
-            price={59.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/81DugevkxJL._SX342_.jpg"
-            rating={2}
+            id="623872347587221"
+            title="SAMSUNG QN32Q50RAFXZA Flat 32 QLED 4K 32Q50 Series Smart TV"
+            price={158.05}
+            image="https://images-na.ssl-images-amazon.com/images/I/51NKhnjhpGL._AC_SL1024_.jpg"
+            rating={5}
             />
         </div>
         <div className="home__row">
@@ -91,11 +91,11 @@ const Home = () => {
             rating={5}
           />
           <Product 
-          //id="21124124124"
-            title="The lean startup"
-            price={29.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
-            rating={5}
+            id="87874762652348"
+            title="Marvel's Avengers for PlayStation 4"
+            price={59.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/81DugevkxJL._SX342_.jpg"
+            rating={2}
           />
         </div>
       <div className="home__row">
