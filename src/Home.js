@@ -50,16 +50,16 @@ const Home = () => {
         <div className="home__row">
           {" "}
           <Product
-            title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
-            price={598.99}
-            rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
+            title="BENGOO G9000 Stereo Gaming Headset for PS4, PC, Xbox One Controller"
+            price={58.86}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/61NZPCYSeVL._AC_SY355_.jpg"
           />
           <Product
-            title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
-            price={598.99}
-            rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
+            title="Elite Series 2 Controller - Black"
+            price={164.01}
+            rating={5}
+            image="https://images-na.ssl-images-amazon.com/images/I/71F6eID-ImL._SX466_.jpg"
           />{" "}
         </div>
         <div className="home__row">
