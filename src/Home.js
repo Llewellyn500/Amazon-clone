@@ -27,7 +27,6 @@ const Home = () => {
           />
         </div>
         <div className="home__row">
-          {" "}
           <Product
             title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
             price={598.99}
@@ -45,10 +44,9 @@ const Home = () => {
             price={26.97}
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/618JS8-mUjL._AC_SY355_.jpg"
-          />{" "}
+          />
         </div>
         <div className="home__row">
-          {" "}
           <Product
             title="BENGOO G9000 Stereo Gaming Headset for PS4, PC, Xbox One Controller"
             price={58.86}
@@ -60,7 +58,7 @@ const Home = () => {
             price={164.01}
             rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/71F6eID-ImL._SX466_.jpg"
-          />{" "}
+          />
         </div>
         <div className="home__row">
           <Product />
