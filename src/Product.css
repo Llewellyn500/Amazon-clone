@@ -40,4 +40,11 @@
   border-color: #a88734 #9c7e31 #846a29;
   color: #111;
   border-radius: 5px;
+  transition: 0.5s;
+}
+
+.button:hover {
+  pointer: hand;
+  color: #000;
+  background: #f0d24b;
 }
