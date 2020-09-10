@@ -22,7 +22,6 @@
 
 .subtotal__gift > input:hover {
   cursor: pointer;
-  color: #f0c14b;
 }
 
 .subtotal > button {
@@ -39,7 +38,7 @@
 
 .subtotal > button:hover {
   cursor: pointer;
-  background-color:  #ffb557;
-  border-color: #fff;
+  background-color: #ffcc4d;
+  border-color: #f3f3f3;
   color: #fff;
 }
