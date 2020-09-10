@@ -43,8 +43,8 @@
   transition: 0.5s;
 }
 
-.button:hover {
-  pointer: hand;
+.product > button:hover {
+  cursor: hand;
   color: #000;
   background: #f0d24b;
 }
