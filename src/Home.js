@@ -35,7 +35,7 @@ const Home = () => {
             image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
           />
           <Product
-            title="Cubii Pro Seated Under Desk Elliptical Machine for Home Workout, Pedal Bike Cycle Motion, Bluetooth sync Fitbit & Apple, Whisper Quiet, Compact Mini Exerciser w/Adjustable Resistance & LCD"
+            title="Cubii Pro Seated Under Desk Elliptical Machine for Home Workout"
             price={249.99}
             rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/81kKxrwMv2L._AC_SL1500_.jpg"
