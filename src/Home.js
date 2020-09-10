@@ -43,7 +43,7 @@ const Home = () => {
           <Product
             title="Lexar Professional 1667X 128GB SDXC Uhs-II/U3 Card (LSD128CBNA1667)"
             price={26.97}
-            rating={4.5}
+            rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/618JS8-mUjL._AC_SY355_.jpg"
           />{" "}
         </div>
