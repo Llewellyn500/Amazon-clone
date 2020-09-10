@@ -41,10 +41,10 @@ const Home = () => {
             image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
           />
           <Product
-            title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
-            price={598.99}
-            rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
+            title="Lexar Professional 1667X 128GB SDXC Uhs-II/U3 Card (LSD128CBNA1667)"
+            price={26.97}
+            rating={4.5}
+            image="https://images-na.ssl-images-amazon.com/images/I/618JS8-mUjL._AC_SY355_.jpg"
           />{" "}
         </div>
         <div className="home__row">
