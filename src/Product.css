@@ -46,5 +46,6 @@
 .product > button:hover {
   cursor: hand;
   color: #fff;
-  background: #edf04b;
+  background: #ffcc5e;
+  border-color: #fff;
 }
