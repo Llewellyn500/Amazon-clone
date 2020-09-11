@@ -48,11 +48,23 @@
 
 .header__optionLineOne {
     font-size: 10px;
+    transition: 0.5s;
 }
 
 .header__optionLineTwo {
     font-size: 13px;
     font-weight: 800;
+    transition: 0.5s;
+}
+
+.header__optionLineOne:hover {
+  cursor: pointer;
+  color: #cd9042;
+}
+
+.header__optionLineOne:hover {
+  cursor: pointer;
+  color: #cd9042;
 }
 
 .header__nav {
