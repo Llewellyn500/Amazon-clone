@@ -18,7 +18,7 @@
   transition: 0.5s;
 }
 .checkoutProduct__info > button:hover {
-  cursorr: pointer;
+  cursor: pointer;
   background: #ffcc5e;
   border-color: #fff;
   color: #fff;
