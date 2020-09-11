@@ -47,15 +47,16 @@
 }
 
 .header__optionLineOne {
+    text-decoration: none;
     font-size: 10px;
     transition: 0.5s;
-    text-decoration: none;
+    
 }
 
 .header__optionLineTwo {
+  text-decoration: none;
     font-size: 13px;
     font-weight: 800;
-    text-decoration: none;
     transition: 0.5s;
 }
 
