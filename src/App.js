@@ -12,7 +12,7 @@ function App() {
         <Header />
         <Switch>
         <Route path="/login">
-            <h1></h1>
+            <h1>login package</h1>
         </Route>
           <Route path="/checkout">
             <Checkout />
