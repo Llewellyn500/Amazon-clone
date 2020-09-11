@@ -7,7 +7,7 @@ import "./Header.css";
 import { Link } from "react-router-dom";
 import { useStateValue } from "./StateProvider";
 
-function Header = () => {
+const Header = () => {
   const [{ basket }, dispatch] = useStateValue();
 
   return (
