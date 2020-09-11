@@ -1,6 +1,5 @@
 import React from 'react';
 import './Login.css';
-import { useState } from "./StateProvider";
 import { Link } from "react-router-dom";
 
 function Login() {
