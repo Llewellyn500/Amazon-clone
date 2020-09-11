@@ -3,7 +3,7 @@ import CurrencyFormat from "react-currency-format";
 
 import "./Subtotal.css";
 
-const Subtotal = () => {
+function Subtotal() {
   return (
     <div className="subtotal">
       <CurrencyFormat
