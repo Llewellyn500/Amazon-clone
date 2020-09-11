@@ -29,9 +29,7 @@ function Checkout() {
               rating={item.rating}
               />
           ))}
-           {/** BasketItem */}
-            {/** BasketItem */}
-             {/** BasketItem */}
+
         </div>
       </div>
       
