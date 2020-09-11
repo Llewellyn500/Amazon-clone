@@ -47,7 +47,8 @@
     font-weight: bolder;
     margin-top: 10px;
     border-color: #a88734 #9c7e31 #846a29;
-    color: #111;
+    color: #111;\
+    transition: 0.5s;
   }
   
   .payment__details > form > div > button:hover {
